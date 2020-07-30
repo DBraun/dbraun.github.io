@@ -116,9 +116,8 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>PyTorch-TOP</h1>
-         <p>C++ TouchDesigner node for real-time style transfer with PyTorch.</p>
-<p>I&rsquo;ve also written a CUDA version node that has no GPU-to-CPU or CPU-to-GPU copying. I&rsquo;ve done the same CUDA project with the TensorFlow C++ API too.</p>
-<p><a href="https://github.com/DBraun/PyTorchTOP-cpumem">github.com/DBraun/PyTorchTOP-cpumem</a></p>
+         <p>C++ TouchDesigner plugin for real-time style transfer with PyTorch.</p>
+<p>My public Github <a href="https://github.com/DBraun/PyTorchTOP-cpumem">repo</a> for this project has some CPU-side overhead, but in a private version, I&rsquo;ve eliminated it. Instead I use CUDA to keep all data on the GPU, avoiding slow CPU-to-GPU or GPU-to-CPU data transfer. I&rsquo;ve done the same CUDA project with the TensorFlow C++ API too.</p>
 <p><img src="/img/portfolio/pytorch-top-cpu.gif" alt="PyTorchTOP"></p>
          
       </div>
