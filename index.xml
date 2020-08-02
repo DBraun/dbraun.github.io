@@ -10,7 +10,6 @@
     
 	<atom:link href="https://dirt.design/index.xml" rel="self" type="application/rss+xml" />
     
-    
     <item>
       <title>Boids @ 120 FPS</title>
       <link>https://dirt.design/portfolio/touchdesigner-boids/</link>
