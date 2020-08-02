@@ -6,10 +6,19 @@
     <description>Recent content in Do It Real-Time on David Braun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2020 12:35:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 12:35:00 -0500</lastBuildDate>
     
 	<atom:link href="https://dirt.design/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Boids @ 120 FPS</title>
+      <link>https://dirt.design/portfolio/touchdesigner-boids/</link>
+      <pubDate>Sun, 02 Aug 2020 12:35:00 -0500</pubDate>
+      
+      <guid>https://dirt.design/portfolio/touchdesigner-boids/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Boid&amp;rdquo; simulation at 120 FPS in TouchDesigner, using compute shaders and dynamic object avoidance.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Real-time Salient Object Detection</title>
@@ -71,7 +80,7 @@
       <pubDate>Fri, 06 Dec 2019 12:35:00 -0500</pubDate>
       
       <guid>https://dirt.design/portfolio/face-chop/</guid>
-      <description>&lt;p&gt;C++ TouchDesigner node for fast and accurate face landmark detection.&lt;/p&gt;</description>
+      <description>&lt;p&gt;C++ TouchDesigner plugin for real-time face landmark detection.&lt;/p&gt;</description>
     </item>
     
     <item>
