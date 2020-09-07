@@ -6,10 +6,19 @@
     <description>Recent content in Do It Real-Time on David Braun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2020 12:35:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 12:35:00 -0500</lastBuildDate>
     
 	<atom:link href="https://dirt.design/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Escher Spiral Tiling</title>
+      <link>https://dirt.design/portfolio/escher-spiral-tiling/</link>
+      <pubDate>Mon, 07 Sep 2020 12:35:00 -0500</pubDate>
+      
+      <guid>https://dirt.design/portfolio/escher-spiral-tiling/</guid>
+      <description>&lt;p&gt;Escher Spirals at 60 FPS in TouchDesigner.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>DawDreamer</title>
