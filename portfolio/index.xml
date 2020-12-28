@@ -89,6 +89,15 @@
     </item>
     
     <item>
+      <title>Onsets-Frames</title>
+      <link>https://dirt.design/portfolio/onsets-frames/</link>
+      <pubDate>Sun, 01 Mar 2020 12:35:00 -0500</pubDate>
+      
+      <guid>https://dirt.design/portfolio/onsets-frames/</guid>
+      <description>&lt;p&gt;Google Magenta&amp;rsquo;s Onsets-Frames, refactored for TensorFlow 2&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>PyTorch-TOP</title>
       <link>https://dirt.design/portfolio/pytorch-top/</link>
       <pubDate>Sun, 16 Feb 2020 12:35:00 -0500</pubDate>
