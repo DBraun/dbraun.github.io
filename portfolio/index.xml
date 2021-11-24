@@ -13,7 +13,7 @@
       <pubDate>Fri, 14 Aug 2020 12:35:00 -0500</pubDate>
       
       <guid>https://dirt.design/portfolio/dawdreamer/</guid>
-      <description>&lt;p&gt;DawDreamer is an audio-processing Python framework supporting core DAW features such as audio playback, VST MIDI instruments, VST effects, and parameter automation.&lt;/p&gt;</description>
+      <description>&lt;p&gt;DawDreamer is an audio-processing Python framework supporting audio playback, VST instruments/effects, parameter automation, time-stretching, pitch-warping, and close integration with Faust.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Sun, 02 Aug 2020 12:35:00 -0500</pubDate>
       
       <guid>https://dirt.design/portfolio/touchdesigner-boids/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Boid&amp;rdquo; simulation at 120 FPS in TouchDesigner, using compute shaders and dynamic object avoidance.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&amp;ldquo;Boid&amp;rdquo; simulation at 120 FPS in TouchDesigner, using compute shaders, voxelization, and dynamic object avoidance.&lt;/p&gt;</description>
     </item>
     
     <item>
