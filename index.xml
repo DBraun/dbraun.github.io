@@ -58,7 +58,7 @@
       <pubDate>Wed, 03 Jun 2020 12:35:00 -0500</pubDate>
       
       <guid>https://dirt.design/portfolio/van-gogh-radiosity/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Van Gogh&lt;/em&gt; is part of a series titled &lt;em&gt;Radiosity&lt;/em&gt;. A light-collecting raymarching algorithm enables real-time rendering of dynamic 2D scenes.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;Van Gogh&lt;/em&gt; is part of a series titled &lt;a href=&#34;https://dirt.design/portfolio/radiosity&#34;&gt;&lt;em&gt;Radiosity&lt;/em&gt;&lt;/a&gt;. A light-collecting raymarching algorithm enables real-time rendering of dynamic 2D scenes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -77,6 +77,15 @@
       
       <guid>https://dirt.design/portfolio/tensorflow-sinkhorn-algorithm/</guid>
       <description>&lt;p&gt;Optimal transport of particles in real-time with the TensorFlow C++ API.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Radiosity</title>
+      <link>https://dirt.design/portfolio/radiosity/</link>
+      <pubDate>Sun, 03 May 2020 12:35:00 -0500</pubDate>
+      
+      <guid>https://dirt.design/portfolio/radiosity/</guid>
+      <description>&lt;p&gt;A light-collecting raymarching algorithm enables real-time rendering of dynamic 2D scenes.&lt;/p&gt;</description>
     </item>
     
     <item>
