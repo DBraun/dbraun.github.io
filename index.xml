@@ -13,7 +13,7 @@
       <pubDate>Fri, 14 Aug 2020 12:35:00 -0500</pubDate>
       
       <guid>https://dirt.design/portfolio/dawdreamer/</guid>
-      <description>&lt;p&gt;DawDreamer is an audio-processing Python framework supporting audio playback, VST instruments/effects, parameter automation, time-stretching, pitch-warping, and close integration with Faust.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/DBraun/DawDreamer&#34;&gt;DawDreamer&lt;/a&gt; is an audio-processing Python framework supporting audio playback, VST instruments/effects, parameter automation, time-stretching, pitch-warping, and close integration with &lt;a href=&#34;https://faust.grame.fr/&#34;&gt;Faust&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,7 +22,16 @@
       <pubDate>Sat, 01 Jan 2022 12:35:00 -0500</pubDate>
       
       <guid>https://dirt.design/portfolio/chuckdesigner/</guid>
-      <description>&lt;p&gt;ChucK audio inside TouchDesigner&lt;/p&gt;</description>
+      <description>&lt;p&gt;Complete &lt;a href=&#34;http://chuck.stanford.edu/&#34;&gt;ChucK&lt;/a&gt; integration with TouchDesigner.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TD-Faust</title>
+      <link>https://dirt.design/portfolio/td-faust/</link>
+      <pubDate>Sat, 01 Jan 2022 12:35:00 -0500</pubDate>
+      
+      <guid>https://dirt.design/portfolio/td-faust/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://faust.grame.fr/&#34;&gt;Faust&lt;/a&gt; integration with TouchDesigner.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -166,7 +175,7 @@
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>https://dirt.design/portfolio/binary-gradient/</guid>
-      <description>&lt;p&gt;For 3 months in 2018, I was a Creator In Lab at the Asia Culture Center in Gwangju, South Korea.&lt;/p&gt;</description>
+      <description>&lt;p&gt;For 3 months in 2018, I was a Creator In Lab at the &lt;a href=&#34;https://www.acc.go.kr/en/index.do&#34;&gt;Asia Culture Center&lt;/a&gt; in Gwangju, South Korea.&lt;/p&gt;</description>
     </item>
     
     <item>
