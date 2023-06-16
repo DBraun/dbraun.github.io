@@ -120,10 +120,18 @@
          <p><a href="https://github.com/DBraun/DawDreamer">DawDreamer</a> is an audio-processing Python framework supporting audio playback, VST instruments/effects, parameter automation, time-stretching, pitch-warping, and close integration with <a href="https://faust.grame.fr/">Faust</a>.</p>
 <p>DawDreamer was included as a Late-Breaking Demo at the 2021 ISMIR Conference. You can view the <a href="https://ccrma.stanford.edu/~braun/assets/DawDreamer-ISMIR-LBD-poster.pdf">poster</a> and read the <a href="https://arxiv.org/abs/2111.09931">paper</a>.</p>
 <p><img src="/img/portfolio/dawdreamer.png" alt="DawDreamer code"></p>
-<p>One recent feature is the ability to transpile Faust code to JAX for machine learning tasks. I contributed the JAX <a href="https://github.com/grame-cncm/faust/commit/44d66aac61b05cb172e101a2b4051e2aa0ea248f">backend</a> to Faust and then demonstrated how to use it with DawDreamer via several Colabs.</p>
+<p>One recent feature is the ability to transpile Faust code to JAX for machine learning tasks. I contributed the JAX <a href="https://github.com/grame-cncm/faust/commit/44d66aac61b05cb172e101a2b4051e2aa0ea248f">backend</a> to Faust and then demonstrated how to use it with DawDreamer via several Google Colabs [<a href="https://github.com/DBraun/DawDreamer/blob/main/examples/Box_API/Faust_Box_API.ipynb">1</a>, <a href="https://github.com/DBraun/DawDreamer/blob/main/examples/Faust_to_JAX/Faust_to_JAX.ipynb">2</a>, <a href="https://github.com/DBraun/DawDreamer/blob/main/examples/Faust_to_QDax/Faust_to_QDax.ipynb">3</a>].</p>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎛️Audio ML friends, I made a transpiler from Faust code to JAX! Faust is a powerful language for sound synthesis, so connecting it to JAX while supporting differentiability and learnable parameters is a huge research opportunity. 🧵 <a href="https://t.co/qGQUeaQd7h">pic.twitter.com/qGQUeaQd7h</a></p>&mdash; David Braun (@DoItRealTime) <a href="https://twitter.com/DoItRealTime/status/1583042473227452416?ref_src=twsrc%5Etfw">October 20, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
+<p>I explained research opportunities involving Faust, DawDreamer, and AI in a talk at <a href="https://faust.grame.fr/community/events/#faust-day-2023">Faust Day 2023</a>:</p>
+<div>
+	<div style="position:relative;padding-top:56.25%;">
+		<iframe src="https://www.youtube.com/embed/AnWBSbC8vU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+	</div>
+</div>
+<br/>
 <p>DawDreamer also supports time-stretching and beatmatching just like Ableton Live.</p>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">DawDreamer now supports BPM automation and comes with this demo script. Transition from song A at 128 BPM to song B at 132 BPM, back to A at 128. Many other new features too!<a href="https://t.co/HRLKKPfwWp">https://t.co/HRLKKPfwWp</a></p>&mdash; David Braun (@DoItRealTime) <a href="https://twitter.com/DoItRealTime/status/1528113622441807872?ref_src=twsrc%5Etfw">May 21, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
